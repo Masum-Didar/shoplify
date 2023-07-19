@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  database: shoplify_development
+  pool: 5
+  timeout: 5000
+  host: localhost
+  username: postgres
+  password: password
